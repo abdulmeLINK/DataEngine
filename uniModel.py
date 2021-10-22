@@ -98,4 +98,4 @@ class uniModel:
         score += self.uniar_score
         self._public_overall_score = score
         self._public_academic_ratio = score / self.scientist_count
-        # @endesction
+        # @endsection
