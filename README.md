@@ -1,2 +1,2 @@
 # CustomNotes
-Operates CRUD using Pythona and JSON file type, Simple usage with data models  
+Operates CRUD using Python and JSON file type, Simple usage with data models.
