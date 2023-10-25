@@ -1,6 +1,3 @@
-Sure, here's an updated `README.md` for your GitHub repository:
-
-```markdown
 # Data Engine
 
 This repository contains a Python script `engine.py` and a data model `uniModel`. The engine is designed to manage and manipulate data related to any data model that follows the structure of `uniModel`.
