@@ -38,7 +38,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/abdulmeLINK/DataEngine/blob/main/LICENSE)
 ```
-
-Please replace `[MIT](https://choosealicense.com/licenses/mit/)` with the actual link to your license file if it's not MIT. You can also add more sections like `Installation`, `Tests`, etc. as per your requirements. Let me know if you need help with anything else!
